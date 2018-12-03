@@ -10,9 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 There are no pre-requisites for this audio player. The FontAwesome icons are loaded via their CDN and the player can be tested on your local machine, using a web browser which has JavaScript enabled, without installing any external software.
 
-### Installing
-
-#### To install using remote files:
+### Install using remote files
 
 You can use the `/public/index.html` file contained within this repo as a guide.
 
