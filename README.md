@@ -27,7 +27,7 @@ Include FontAwesome and jcfAudioPlayer's CSS within the `<head>` tags of the web
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
 	<!-- jcfAudioPlayer CSS -->
-    <link rel="stylesheet" type="text/css" href="http://joshuaflood.co.uk/assets/css/audioplayer.css">
+    <link rel="stylesheet" type="text/css" href="http://joshuaflood.co.uk/assets/css/jcfaudioplayer.css">
 
     <!--[if lt IE 9]>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -74,7 +74,7 @@ Include the `jcfaudioplayer.js` file, located within this repo at `/public/asset
 	<!-- Your website's html goes here -->
 
 <script src="assets/js/jcfaudioplayer-tracklist.js"></script>
-<script src="http://joshuaflood.co.uk/assets/js/audioplayer.js"></script>
+<script src="http://joshuaflood.co.uk/assets/js/jcfaudioplayer.js"></script>
 </body>
 ```
 
